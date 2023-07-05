@@ -1,3 +1,3 @@
 import x from './x.js'
 console.log(x)
-console.log('你好')
+console.log('你好呀')
